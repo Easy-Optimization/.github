@@ -56,4 +56,5 @@ You can open a feature request [here](https://github.com/Easy-Optimization/Issue
 This is licensed under the [MIT License](https://mit-license.org/).
 ## Installation
 
-![https://modrinth.com/modpack/easy-optimizer/](https://raw.githubusercontent.com/capsey/archeology-mod/main/badge-modrinth.png)()
+[![Get it on Modrinth](image.png)](https://modrinth.com/modpack/easy-optimizer)
+
