@@ -53,7 +53,8 @@ You can open a bug report [here](https://github.com/Easy-Optimization/Issues/iss
 
 You can open a feature request [here](https://github.com/Easy-Optimization/Issues/issues/new?template=feature_request.md)
 ## License
-This is licensed under the [MIT License](https://mit-license.org/).
+This is licensed under the [Apache Licence 2.0]([https://www.apache.org/licenses/LICENSE-2.0.html](https://www.apache.org/licenses/LICENSE-2.0.html)).
+
 ## Installation
 
 [![Get it on Modrinth](image.png)](https://modrinth.com/modpack/easy-optimizer)
