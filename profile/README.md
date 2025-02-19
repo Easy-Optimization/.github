@@ -57,5 +57,5 @@ This is licensed under the [Apache Licence 2.0]([https://www.apache.org/licenses
 
 ## Installation
 
-[![Get it on Modrinth](image.png)](https://modrinth.com/modpack/easy-optimizer)
+[![Get it on Modrinth](image.png)](https://modrinth.com/modpack/easy-optimizer) **OR** [Get the zip file](https://github.com/Easy-Optimization/easyoptimization/archive/refs/tags/LATEST.zip)
 
