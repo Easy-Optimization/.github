@@ -1,4 +1,4 @@
-# Easy Optimization
+# Easy Optimization Github
 This mod pack focuses on one thing: optimization. It supports shaders, OptiFine zoom, and a clean UI. To get shaders or resource packs, you do not even have to leave the game! With the
 'Resourcify' mod you can get them with ease.
 
